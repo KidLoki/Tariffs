@@ -1,0 +1,17 @@
+== TARIFFS ==
+
+This program will allow freight forwarders to keep an online database of their shipping rates, and to compare those rates to the general rates offered by shipping companies. 
+
+To Do List:
+
+* Create frames
+* Set up password, username and registration 
+* Set up database and tables
+* Figure out how to import Excel documents
+* Sorts and Filters
+* Styling
+
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
